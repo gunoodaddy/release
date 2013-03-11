@@ -1,2 +1,5 @@
+2.6.1
+Fixed bug that settig value is deleted when you exit with status set to [New Preset].
+
 2.6.0
 - update test
