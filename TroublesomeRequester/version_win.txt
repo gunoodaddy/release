@@ -1,5 +1,8 @@
+2.6.5
+sdk 1.1 proguard option add
+
 2.6.4
-sdk 2013 proguard fix
+sdk 2013 proguard option add
 
 2.6.3
 mime type changed to application/octet-stream
