@@ -1,3 +1,6 @@
+1.4.2
+performance up
+
 1.4.1
 scroll pin keep original horizontal scroll bar position too.
 
