@@ -1,3 +1,6 @@
+2.7.1
+drag & drop bug fix
+
 2.7.0
 available to request command line
 added output path setting
