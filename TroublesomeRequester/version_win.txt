@@ -1,3 +1,7 @@
+2.7.4
+Added new exe files for console version
+removed command line feature from main program.
+
 2.7.3
 not check duplicated application running in command line mode
 
