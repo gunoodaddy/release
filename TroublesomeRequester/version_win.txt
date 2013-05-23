@@ -1,3 +1,6 @@
+2.7.3
+not check duplicated application running in command line mode
+
 2.7.2
 miss update..
 
