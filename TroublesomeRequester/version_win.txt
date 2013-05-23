@@ -1,3 +1,6 @@
+2.7.2
+miss update..
+
 2.7.1
 drag & drop bug fix
 
