@@ -1,3 +1,6 @@
+2.7.6
+sdk version UX changed to combo-box
+
 2.7.5
 when sdk 2013 mode, use application/java-archive 
 
