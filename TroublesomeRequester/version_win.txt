@@ -1,3 +1,6 @@
+2.7.7
+bug fixed that sdk version did not save
+
 2.7.6
 sdk version UX changed to combo-box
 
