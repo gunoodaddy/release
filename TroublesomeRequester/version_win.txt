@@ -1,6 +1,8 @@
+2.7.10
+New button added and minor bug fix
+
 2.7.9
 default direct input check is disabled when [New Preset] set
-
 
 2.7.8
 - bug fixed that web server not restart when sdk version is changed.
