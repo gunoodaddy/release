@@ -1,5 +1,8 @@
+1.4.6
+Search Text Clear button addded. (from »ó¿í)
+
 1.4.5
-New mark icon added. This icon shows when new log messages received during watching another tab.
+New mark icon added. This icon shows when new log messages received during watching another tab. (from ‚‹)
 
 1.4.4
 fixed side-effect of 1.4.3
