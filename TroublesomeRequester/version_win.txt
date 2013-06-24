@@ -1,6 +1,10 @@
+2.7.9
+default direct input check is disabled when [New Preset] set
+
+
 2.7.8
-bug fixed that web server not restart when sdk version is changed.
-Automatically set default config path when sdk version is changed.
+- bug fixed that web server not restart when sdk version is changed.
+- Automatically set default config path when sdk version is changed.
 
 2.7.7
 bug fixed that sdk version did not save
