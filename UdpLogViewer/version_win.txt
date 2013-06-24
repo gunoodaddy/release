@@ -1,3 +1,6 @@
+1.4.7
+bug fixed that when you change tab, search text was not applied at that time.
+
 1.4.6
 Search Text Clear button addded. (from »ó¿í)
 
