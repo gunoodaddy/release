@@ -1,3 +1,6 @@
+1.4.10
+Ho fix : search text highlight bug fixed
+
 1.4.9
 Hot fix : new line ignored..
 
